@@ -7,3 +7,5 @@ This devfile includes a lot of supporting resources (postgresql, kafka, mongodb,
 Link:
 
 https://raw.githubusercontent.com/Gitvazonline/InfraEnvPilot/main/devfile.yaml
+
+https://codeready-openshift-workspaces.,,,,/#https://raw.githubusercontent.com/Gitvazonline/InfraEnvPilot/main/devfile.yaml
