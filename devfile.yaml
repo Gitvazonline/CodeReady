@@ -5,7 +5,7 @@ projects:
   - name: dotnet-app
     source:
       location: 'git@github.com:ProofOfConceptDeveloper/PFR.git'
-      startPoint: pittar
+      startPoint: main
       type: git
 components:
   - id: redhat-developer/che-omnisharp-plugin/latest
