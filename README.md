@@ -6,4 +6,4 @@ This devfile includes a lot of supporting resources (postgresql, kafka, mongodb,
 
 Link:
 
-https://raw.githubusercontent.com/gitvazonline/InfraEnvPilot/devfile.yaml
+https://raw.githubusercontent.com/Gitvazonline/InfraEnvPilot/main/devfile.yaml
